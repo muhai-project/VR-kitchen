@@ -39,7 +39,9 @@ Organization
 # Programming languages:
 C#
 # Related papers:
-URL to possible related papers within the repository stated within the readme file (from Arxiv)
+[RINGE, RACHEL, and ROBERT PORZEL. "Towards a Task-based Metric for Measuring Trust in Autonomous Robots for Everyday Activities." In Proceedings of the CHI TRAIT Workshop on Trust and Reliance in AI-Assisted Tasks. 2023.](https://chi-trait.github.io/papers/2023/CHI_TRAIT_2023_Paper_39.pdf)
+
+
 # Repository Status:
 WIP
 # Requirements:
